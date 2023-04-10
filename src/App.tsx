@@ -5,7 +5,7 @@ import dark from './styles/themes/dark';
 
 function App() {
   return (
-    <ThemeProvider theme={dark}>
+    <ThemeProvider theme={light}>
       <AppRoutes />
     </ThemeProvider>
     
